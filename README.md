@@ -1,5 +1,8 @@
 # Food For All
 
+<img src="./App_icon.png"  width="200px">
+
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
 "80">](https://play.google.com/store/apps/details?id=com.hunger.flutter_app)
 
@@ -60,3 +63,18 @@ There you go, you can now open & edit the project. Enjoy!
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
 
+#### Dependencies
++ [Firebase](https://firebase.flutter.dev/docs/overview/)
++ [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
++ [Geocoder](https://pub.dev/packages/geocoder)
++ [Google Sign In](https://pub.dev/packages/google_sign_in)
++ [Image Picker](https://pub.dev/flutter/packages?platform=android)
++ [Intl](https://pub.dev/packages/intl)
++ [Percent Indicator](https://pub.dev/packages/percent_indicator)
++ [Animated Theme Switcher](https://pub.dev/packages/animated_theme_switcher)
++ [Cached Network Image](https://pub.dev/packages/cached_network_image)
++ [Secure Storage](https://pub.dev/packages/flutter_secure_storage)
+
+
+### Project Maintainers
+This project is founded and actively maintained by [Athava Saraf](https://github.com/atharvasaraf123/) & [Vaibhav Pallod](https://github.com/vaibhavpallod/) . For any sort of queries feel free to mail at sarafatharva123@gmail.com or vaibhavpallod@gmail.com.
